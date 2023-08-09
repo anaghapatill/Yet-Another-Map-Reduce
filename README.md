@@ -7,7 +7,7 @@ Yet Another Map Reduce is an implementation of the core components of Hadoop's M
 
 Clone the repository
 ```
-git clone https://github.com/Projects-EC-2022/BD2_018_023_041_058.git
+git clone https://github.com/anaghapatill/Yet-Another-Map-Reduce.git
 ```
 
 On a shell, navigate to `YaMR` and run the following command
